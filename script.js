@@ -6,7 +6,7 @@ let resultadoSoma
 numUm = Number(prompt("qual seria o primeiro número"));
 numDois = Number(prompt("qual seria o segundo número"));
 
-resultado = numUm + numDois 
+resultadoSoma = numUm + numDois 
 
 alert(` o resultado da adição será: ${resultadoSoma}`)
 
