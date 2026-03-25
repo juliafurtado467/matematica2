@@ -1,10 +1,10 @@
 let numUm
 let numDois
-let result 
+let ResultadoDaDivisao
 
 numUm = Number(prompt("escreva o primeiro numero"));
 numDois = Number(prompt("escreva o segundo numero"));
 
-result = numUm/numDois;
+ResultadoDaDivisao = numUm/numDois;
 
-alert(`o resultado da divisão será ${result}`);
+alert(`o resultado da divisão será ${ResultadoDaDivisao}`);
